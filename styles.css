@@ -1,0 +1,35 @@
+/* Your CSS goes here! */
+h2.header{
+    font-size: 22rem;
+    font-style: normal;
+    font-weight:300;
+    letter-spacing:-0.03em;
+    line-height:1.4;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 15px;
+}
+
+h2.project{
+    background-color: aquamarine;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+img.p-img{
+    margin-bottom: 20px;
+}
+    
+ul.project{
+    list-style-type: square;
+}
+
+img.home-img{
+    width: 450px;
+    height: 560px;
+}
+div.container{
+    width: 100%;
+}
