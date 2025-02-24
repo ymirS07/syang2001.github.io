@@ -1,2 +1,2 @@
-# syang2001.github.io
+# ymirS07.github.io
 cs274/lis472 repo
